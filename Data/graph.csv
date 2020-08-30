@@ -1,7 +1,7 @@
-Edge1,Edge2
-A1,Z1
-A2,Z3
-A2,Z9
-A3,Z4
-A3,Y2
-B1,Y4
+Edge1,Edge2,Weight
+A1,Z1,10
+A2,Z3,15
+A2,Z9,2
+A3,Z4,11
+A3,Y2,8
+B1,Y4,8
